@@ -1,0 +1,4 @@
+echo "www.yeyimo.ip-ddns.com" > CNAME
+git添加CNAME
+git提交-m"添加CNAME文件"
+git推送原点主线
